@@ -1,2 +1,2 @@
-# CoHam
-Code of Hammurabi- the core base of Hammurabi Compliance Engine.
+# CoHam- Code of Hammurabi
+The core base of the Hammurabi Compliance Engine.
